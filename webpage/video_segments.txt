@@ -1,0 +1,128 @@
+	publish	quality				
+1		4	0:02:26	201_FranklinPA-19920704_2025-08-08_15-56-47__02___	_00.01.00.467-00.03.26.458-seg02.mp4	
+2		4	0:08:40	201_FranklinPA-19920704_2025-08-08_15-56-47__04___	_00.03.26.833-00.12.07.625-seg04.mp4	Song + routine
+3		4	0:10:17	201_FranklinPA-19920704_2025-08-08_15-56-47__05___	_00.12.07.625-00.22.21.900-seg05.mp4	w/ dh intro
+4			0:04:49	201_FranklinPA-19920704_2025-08-08_15-56-47__06___	_00.22.21.900-00.27.10.967-seg06.mp4	song
+5			0:03:36	201_FranklinPA-19920704_2025-08-08_15-56-47__07___	_00.27.10.967-00.30.43.500-seg07.mp4	.
+6			0:01:44	201_FranklinPA-19920704_2025-08-08_15-56-47__08___	_00.30.43.500-00.32.27.433-seg08.mp4	trim start
+7			0:02:13	201_FranklinPA-19920704_2025-08-08_15-56-47__09___	_00.32.27.433-00.34.40.567-seg09.mp4	talk
+8			0:02:00	201_FranklinPA-19920704_2025-08-08_15-56-47__10___	_00.34.40.567-00.36.41.188-seg10.mp4	waltz
+9			0:02:08	201_FranklinPA-19920704_2025-08-08_15-56-47__11___	_00.36.41.188-00.38.48.433-seg11.mp4	talk
+10			0:05:35	201_FranklinPA-19920704_2025-08-08_15-56-47__12___	_00.38.48.433-00.44.23.667-seg12.mp4	.
+11			0:04:40	2596100-01-007__02___	_00.00.33.367-00.05.13.496-seg02.mp4	trim?
+12			0:08:30	2596100-01-007__03___	_00.05.13.496-00.13.39.255-seg03.mp4	.
+13			0:05:58	2596100-01-007__05___	_00.13.54.168-00.19.52.860-seg05.mp4	.
+14			0:04:18	2596100-01-007__07___	_00.20.42.910-00.25.01.502-seg07.mp4	trim
+15			0:04:40	2596100-01-007__10___	_00.25.43.210-00.30.23.173-seg10.mp4	trim
+16			0:06:58	2596100-01-007__13___	_00.31.08.535-00.38.06.444-seg13.mp4	.
+17			0:04:11	2596100-01-007__15___	_00.38.13.961-00.42.25.196-seg15.mp4	.
+18			0:01:43	2596100-01-007__16___	_00.42.25.196-00.44.07.147-seg16.mp4	trim
+19			0:07:22	2596100-01-007__19___	_00.44.29.336-00.51.51.445-seg19.mp4	trim?
+20			0:00:58	2596100-01-007__20___	_00.51.51.445-00.52.49.837-seg20.mp4	-- 
+21			0:12:21	2596100-01-007__21___	_00.52.49.837-01.05.10.885-seg21.mp4	.
+22			0:01:08	2596100-01-007__22___	_01.05.10.885-01.06.11.843-seg22.mp4	T-shirts
+23			0:05:46	2596100-01-007__23___	_01.06.11.843-01.11.56.650-seg23.mp4	.
+24			0:01:18	2596100-01-007__25___	_01.12.17.671-01.13.35.608-seg25.mp4	music
+25			0:03:10	2596100-01-007__26___	_01.13.35.608-01.16.42.585-seg26.mp4	crowd
+26			0:09:39	2596100-01-007__27___	_01.16.42.585-01.26.15.720-seg27.mp4	trim; other act
+27			0:04:22	2596100-01-007__29___	_01.26.38.370-01.30.59.589-seg29.mp4	other act
+28			0:03:38	2596100-01-007__31___	_01.31.12.139-01.34.50.065-seg31.mp4	other act
+29			0:03:44	2596100-01-007__32___	_01.34.50.065-01.38.32.932-seg32.mp4	other act
+30			0:06:43	2596100-01-007__33___	_01.38.32.932-01.45.09.292-seg33.mp4	music, crowd
+31			0:46:01	2596100-02_CCC201_FranklinPA-001-00.00.00.000-00.46.01.703.mp4		franklin complete
+32			0:13:37	2596100-03-006__02___	_00.00.25.025-00.14.02.509-seg02.mp4	trim
+33			0:10:58	2596100-04-008 FINAL-00.00.00.000-00.10.58.467-seg1.mp4		trim
+34			0:02:24	2596100-04-008 FINAL-00.10.58.467-00.13.22.901-seg2.mp4		trim
+35			0:13:04	2596100-04-008__02___	_00.00.16.683-00.13.20.801.mp4	repeat
+36			0:20:51	2596100-05-002__02___	_00.00.33.367-00.21.24.618.mp4	
+37			0:18:30	2596100-06__02___	_00.00.17.784-00.18.47.227.mp4	
+38			0:20:34	2596100-08__01___	_00.00.00.000-00.20.34.568.mp4	
+39			0:11:40	2596100-09-010__03___	_00.00.23.690-00.11.57.384-seg03.mp4	
+40			0:03:28	2596100-09-010__04___	_00.11.57.384-00.15.25.926-seg04.mp4	
+41			0:03:12	2596100-10-005__02___	_00.00.25.025-00.03.36.884-seg02.mp4	
+42			0:03:37	2596100-10-005__03___	_00.03.36.884-00.07.13.767-seg03.mp4	
+43			0:05:58	2596100-10-005__04___	_00.07.13.767-00.13.12.459-seg04.mp4	
+44			0:10:23	CCC-CMU Square Dance 10-14-2000 for 11 mins then rehearsal__02___	_00.01.36.733-00.12.00.233-seg02.mp4	
+45			0:04:20	CCC-CMU Square Dance 10-14-2000 for 11 mins then rehearsal__06___	_00.12.13.767-00.16.34.333-seg06.mp4	
+46			0:08:59	CCC-CMU Square Dance 10-14-2000 for 11 mins then rehearsal__07___	_00.16.34.333-00.25.34.133-seg07.mp4	
+47			0:15:40	CCC-CMU Square Dance 10-14-2000 for 11 mins then rehearsal__08___	_00.25.34.133-00.41.14.533-seg08.mp4	
+48			0:45:33	CCC-Ohio-1999-Les Video-Cut around 45 minutes-00.00.00.000-00.45.33.732.mp4		
+49			0:03:13	CCC-SawmillCenter-Maybe1989-BAD TAPE-00.00.09.884-00.03.23.547-seg2.mp4		
+50			0:01:25	CCC-SawmillCenter-Maybe1989-BAD TAPE-00.03.23.547-00.04.48.795-seg3.mp4		
+51			0:01:40	CCC-SawmillCenter-Maybe1989-BAD TAPE-00.04.48.795-00.06.29.179-seg4.mp4		
+52			0:03:18	CCC_8-5-6thRoutines10-06-87_atPatsStudio-00.00.00.000-00.03.18.667-seg1.mp4		
+53			0:03:51	CCC_8-5-6thRoutines10-06-87_atPatsStudio-00.03.18.667-00.07.09.742-seg2.mp4		
+54			0:05:32	CCC_8-5-6thRoutines10-06-87_atPatsStudio-00.07.09.742-00.12.42.239-seg3.mp4		
+55			0:07:33	CCC_Blooper_Tap_WilkinsSchool_09-07-94-00.00.00.000-00.07.33.077.mp4		
+56			0:05:47	CCC_OldManAtTheMill_WilkinsSchool_09-07-94-00.00.17.361-00.06.04.842.mp4		
+57			0:06:57	CCC_OldManAtTheMill_WilkinsSchool_WithIntro_09-07-94-00.00.00.000-00.06.57.168.mp4		
+58			0:16:07	CCC_Possibly Wholesale Bank Socializer 8-3-1995-00.00.00.000-00.16.07.957.mp4		
+59			0:10:29	CCC_Tap_WilkinsSchoolVersion1_09-07-94-00.00.00.000-00.10.29.290.mp4		
+60			0:10:53	CCC_Tap_WilkinsSchoolVersion2_09-07-94-00.00.00.000-00.10.53.952.mp4		
+61			0:11:07	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__01___	_00.00.00.000-00.11.07.600-seg01.mp4	
+62			0:03:56	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__02___	_00.11.07.600-00.15.03.633-seg02.mp4	
+63			0:03:27	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__03___	_00.15.03.633-00.18.30.700-seg03.mp4	
+64			0:03:10	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__05___	_00.18.40.804-00.21.51.278-seg05.mp4	
+65			0:00:38	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__06___	_00.21.51.278-00.22.29.800-seg06.mp4	
+66			0:03:24	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__07___	_00.22.29.800-00.25.54.327-seg07.mp4	
+67			0:05:32	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__08___	_00.25.54.327-00.31.27.050-seg08.mp4	
+68			0:10:01	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__09___	_00.31.27.050-00.41.28.147-seg09.mp4	
+69			0:01:41	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__11___	_00.41.28.491-00.43.09.614-seg11.mp4	
+70			0:12:03	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__12___	_00.43.09.614-00.55.13.361-seg12.mp4	
+71			0:07:39	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__13___	_00.55.13.361-01.02.52.368-seg13.mp4	
+72			0:02:27	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__14___	_01.02.52.368-01.05.20.223-seg14.mp4	
+73			0:07:31	CoalCountryCloggersAtMtAloysiusCollege03-14-1997__15___	_01.05.20.223-01.12.52.042-seg15.mp4	
+74			0:12:06	CoalCountryCloggersFieldTape07-16-89.HarewitzMediaMan-00.00.00.000-00.12.06.467.mp4		
+75			0:57:10	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02.mp4		
+76			0:03:29	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__02___	_00.00.00.167-00.03.29.487-seg02.mp4	
+77			0:04:24	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__03___	_00.03.29.487-00.07.54.033-seg03.mp4	
+78			0:00:21	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__04___	_00.07.54.033-00.08.15.867-seg04.mp4	
+79			0:04:18	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__05___	_00.08.15.867-00.12.33.767-seg05.mp4	
+80			0:02:06	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__06___	_00.12.33.767-00.14.40.433-seg06.mp4	
+81			0:06:47	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__07___	_00.14.40.433-00.21.28.133-seg07.mp4	
+82			0:04:08	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__08___	_00.21.28.133-00.25.36.500-seg08.mp4	
+83			0:05:27	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__09___	_00.25.36.500-00.31.03.409-seg09.mp4	
+84			0:02:51	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__10___	_00.31.03.409-00.33.54.667-seg10.mp4	
+85			0:04:34	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__11___	_00.33.54.667-00.38.29.035-seg11.mp4	
+86			0:02:40	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__12___	_00.38.29.035-00.41.09.900-seg12.mp4	
+87			0:04:00	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__13___	_00.41.09.900-00.45.09.933-seg13.mp4	
+88			0:06:21	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__14___	_00.45.09.933-00.51.31.633-seg14.mp4	
+89			0:05:38	CoalCountryCloggers_George English FIles-1991-00.00.08.467-00.57.18.867-seg02__15___	_00.51.31.633-00.57.10.467-seg15.mp4	
+90			0:00:46	CoalCountryCloggers_George English FIles-1991-01.12.18.367-01.25.40.467-seg04__01___	_00.00.00.000-00.00.46.704-seg01.mp4	
+91			0:03:23	CoalCountryCloggers_George English FIles-1991-01.12.18.367-01.25.40.467-seg04__02___	_00.00.46.704-00.04.09.948-seg02.mp4	
+92			0:01:18	CoalCountryCloggers_George English FIles-1991-01.12.18.367-01.25.40.467-seg04__04___	_00.04.22.065-00.05.40.783-seg04.mp4	
+93			0:07:03	CoalCountryCloggers_George English FIles-1991-01.12.18.367-01.25.40.467-seg04__05___	_00.05.40.783-00.12.44.142-seg05.mp4	
+94			0:00:17	CoalCountryCloggers_George English FIles-1991-01.12.18.367-01.25.40.467-seg04__07___	_00.12.48.289-00.13.06.047-seg07.mp4	
+95			0:05:31	CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05__02___	_00.00.09.833-00.05.40.900-seg02.mp4	
+96			0:01:06	CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05__03___	_00.05.40.900-00.06.47.020-seg03.mp4	
+97			0:05:20	CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05__04___	_00.06.47.020-00.12.07.056-seg04.mp4	
+98			0:00:43	CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05__05___	_00.12.07.056-00.12.50.595-seg05.mp4	
+99			0:02:14	CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05__06___	_00.12.50.595-00.15.05.019-seg06.mp4	
+100			0:06:17	CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05__07___	_00.15.05.019-00.21.22.605-seg07.mp4	
+101			0:14:31	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__02___	_00.00.01.000-00.14.32.267-seg02.mp4	
+102			0:03:24	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__04___	_00.15.13.200-00.18.37.833-seg04.mp4	
+103			0:03:26	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__06___	_00.31.40.800-00.35.07.640-seg06.mp4	
+104			0:02:39	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__07___	_00.35.07.640-00.37.47.377-seg07.mp4	
+105			0:01:29	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__08___	_00.37.47.377-00.39.16.267-seg08.mp4	
+106			0:02:53	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__09___	_00.39.16.267-00.42.10.033-seg09.mp4	
+107			0:03:25	CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06__10___	_00.42.10.033-00.45.35.067-seg10.mp4	
+108			0:16:01	CoalCountryCloggers_George English FIles-1991-02.34.50.036-02.50.51.446-seg07.mp4		
+109			0:22:41	CoalCountryCloggers_George English FIles-1991-02.50.51.446-03.13.32.545-seg08.mp4		
+110			0:10:05	CoalCountryCloggers_George English FIles-1991-03.13.32.545-03.23.38.017-seg09.mp4		
+111			0:17:18	CoalCountryCloggers_George English FIles-1991-03.23.38.017-03.40.56.700-seg10.mp4		
+112			0:08:50	CoalCountryConvention1989-00.00.00.000-00.55.31.807__01___	_00.00.00.000-00.08.50.796-seg01.mp4	
+113			0:14:01	CoalCountryConvention1989-00.00.00.000-00.55.31.807__02___	_00.08.50.796-00.22.51.800-seg02.mp4	
+114			0:01:21	CoalCountryConvention1989-00.00.00.000-00.55.31.807__04___	_00.24.22.858-00.25.44.400-seg04.mp4	
+115			0:00:57	CoalCountryConvention1989-00.00.00.000-00.55.31.807__05___	_00.25.44.400-00.26.41.832-seg05.mp4	
+116			0:14:51	CoalCountryConvention1989-00.00.00.000-00.55.31.807__06___	_00.26.41.832-00.41.33.314-seg06.mp4	
+117			0:01:16	CoalCountryConvention1989-00.00.00.000-00.55.31.807__07___	_00.41.33.314-00.42.50.135-seg07.mp4	
+118			0:03:53	CoalCountryConvention1989-00.00.00.000-00.55.31.807__08___	_00.42.50.135-00.46.43.633-seg08.mp4	
+119			0:10:01	SquareDanceEddyTheatre-02-1989-00.00.06.232-00.10.08.067.mp4		
+120			0:45:25	X_201_FranklinPA-19920704_2025-08-08_15-56-47.mp4		
+121			0:30:03	X_CoalCountryCloggersAtMtAloysiusCollegePARTIAL03-14-1997-00.00.00.000-00.30.03.498.mp4		
+122			0:14:59	X_CoalCountryCloggers_George English FIles-1991-00.57.18.867-01.12.18.367-seg03.mp4		
+123			0:13:22	X_CoalCountryCloggers_George English FIles-1991-01.12.18.367-01.25.40.467-seg04.mp4		
+124			0:21:22	X_CoalCountryCloggers_George English FIles-1991-01.25.40.467-01.47.02.967-seg05.mp4		
+125			0:47:47	X_CoalCountryCloggers_George English FIles-1991-01.47.02.967-02.34.50.036-seg06.mp4		
+126			0:42:15	X_CoalCountryCloggers_KeyserWV_04-1995-00.00.00.000-00.42.15.100.mp4		
+127			0:55:31	X_CoalCountryConvention1989-00.00.00.000-00.55.31.807.mp4		

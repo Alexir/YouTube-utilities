@@ -1,0 +1,28 @@
+Write a Python program.
+Use modules opencv and moviepy.
+There is one command line argument, call it 'location'.
+
+Make a list of all the .mp4 files in folder 'location'
+with durations greater than 15 seconds.
+
+Make an html page
+The page background is 25% grey.
+All text color on this page is white.
+The heading on the html page is 'Clogger Videos'.
+
+Make a table. The table background is 50% grey.
+
+The table has four columns:
+ 1)- sequence number using two digits, labeled 'Seq'
+ 2) a jpeg frame taken at 30 seconds into the video; keep these in a folder 'thumb'
+ 3) duration of the video in format H:MM:SS
+ 3a) apply shlex.quote() to the .mp4 file name; call this string 'qlink'
+ 4) Divide the file name into two parts
+    at just before the last instance of one of the following strings: '_00.', '_01.', '_02.', '_03.';
+    make the first part a link to 'qlink', open this link in a separate tab;
+    	 then add a break between the first and second parts.
+
+write the page to a file 'index.html' into 'content' folder.
+
+
+

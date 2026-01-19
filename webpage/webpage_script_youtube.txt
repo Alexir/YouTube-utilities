@@ -1,0 +1,29 @@
+Write a Python program.  Use modules opencv,  moviepy, yt-flp, 'Path' from pathlib.
+There is one command line argument, is a csv file; read it into 'mp4files', 
+the delimiter is "|"
+
+print the number of rows in mp4files.
+
+Make an html page
+The page background is 12% grey.
+All text color on this page is white.
+The heading on the html page is 'Clogger Videos'.
+Insert file 'legend.txt' as a paragraph.
+Make a table. The table background is 50% grey.
+The table has four columns.
+For each row in mp4files, fill the columns as follows:
+
+ 1) field 1 is a 'seq', place it in column 1
+ 2) field 4 is a youtube id, place its thumbnail in column 2; make the thumbnail a link to the video id.
+ 3) field 5 is a duration,  place it in column 3 and align it to the top of the cell.
+ 4) field 8 is a title; divide it into two parts at just before the first instance of one of the following strings: ' 00 ', ' 01 ', ' 02 ', ' 03 ';
+    add a break between the first and second parts. Make the first part bold; make the second part a fixed-width font, use a smaller font.
+    add two line breaks, add field 9, prefix with, "DESCRIPTION: ", add a line break, 
+    add field 6, prefix with "VIEWS: "; add field 7, prefix with "LIKES:".
+    place in column 4.
+
+Folowing the table, insert the current date and time.
+write the page to a file 'videos_youtube.html'.
+
+
+

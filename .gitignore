@@ -1,0 +1,13 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+*.so
+
+# editor backups
+*~
+*#
+
+#

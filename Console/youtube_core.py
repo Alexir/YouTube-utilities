@@ -5,8 +5,8 @@
 """
 You need at least two test sets: test_youtube_1.py and test_youtube_2.py. 
 Video insertion takes time, so testing can't be a straight-through suite.
-It's not clear how long it takes a vid to appear; it may be load depended.
-You  need a test_youtube_cleaup.py to remove all the junk you created.
+It's not clear how long it takes for a vid to appear; it may be load dependent.
+You need a test_youtube_cleaup.py to remove all the junk you created.
 and which would also test delete functions.
 If you're not anxious, you could write a script with sleep() in it.
 

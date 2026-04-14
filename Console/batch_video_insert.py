@@ -2,7 +2,7 @@
 #
 
 # [20260114] (air) insert a list of videos, with meta info
-# data taken from .ods file with notes; notes go into description
+# data taken from an .ods file with notes; notes go into description
 #
 
 import sys, os
